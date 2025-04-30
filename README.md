@@ -37,6 +37,7 @@ In this course, you will:
 4. Merge your pull request
 
 ### How to start this course
+编辑点：111
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
@@ -65,10 +66,10 @@ In this course, you will:
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
----
+---插入内容！！！
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+完成编辑！！！
 </footer>
